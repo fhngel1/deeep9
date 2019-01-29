@@ -1,6 +1,6 @@
-token=NTIzMjU2MzM1OTIwMjY3Mjc3.DvW7Iw.KRm6SmR6nJ9rqXHUwPVUZ5u33uk
-owner=521341978659651596
-prefix= 3
+token=NTM5ODkxODg2Nzc3OTU4NDAw.DzI9Ww.Dmj_eRDR-FoH_JcnDBV0Id919Go
+owner=408268939181948929
+prefix= L
 game=
 stayinchannel=true
 songinstatus=false
